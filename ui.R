@@ -47,5 +47,5 @@ page_2_ui <- fluidPage(
 ui <- navbarPage(
   title = "Assignment 5",
   tabPanel("Introduction", introduction_ui),
-  tabPanel("", page_2_ui),
+  tabPanel("Interactive", page_2_ui)
 )

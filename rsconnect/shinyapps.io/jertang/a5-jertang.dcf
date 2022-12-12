@@ -1,0 +1,13 @@
+name: a5-jertang
+title: a5-jertang
+username:
+account: jertang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7871784
+bundleId: 6625707
+url: https://jertang.shinyapps.io/a5-jertang/
+when: 1670822809.41907
+lastSyncTime: 1670822809.41911
+asMultiple: FALSE
+asStatic: FALSE
